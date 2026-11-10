@@ -26,4 +26,4 @@
 - Multiple return values and the `if err != nil` pattern
 
 ## Notes
-Full lesson notes are kept privately in Obsidian (`Go 01 - Toolchain, types and errors`).
+📖 **[Read my chapter 1 notes →](NOTES.md)** They cover the toolchain, zero values, `:=` vs `=`, shadowing, errors as values, the mistakes I made, and a quick self-quiz.
