@@ -1,0 +1,13 @@
+# Binaries built with `go build`
+*.exe
+*.test
+*.out
+/bin/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Local env
+.env
