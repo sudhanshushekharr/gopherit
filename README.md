@@ -17,6 +17,19 @@ I'm a working software engineer who mostly knows Java, Python and JS. Each chapt
 | 07 | Testing and tooling | ⬜ | |
 | 08 | Building an HTTP service | ⬜ | |
 
+## Practice: Exercism
+
+Solutions to the [Exercism Go track](https://exercism.org/tracks/go) live in [`exercism/go/`](exercism/go/). Each exercise is its own small module with tests: `cd exercism/go/<exercise> && go test`.
+
+| After chapter | Exercise | Status |
+|---|---|---|
+| 01 | hello-world | ⬜ |
+| 01 | lasagna | ⬜ |
+| 01 | cars-assemble | ⬜ |
+| 01 | welcome-to-tech-palace | ⬜ |
+| 01 | weather-forecast | ⬜ |
+| 01 | the-farm | ⬜ |
+
 ## Running the code
 
 Everything lives in one Go module. From the repo root:
